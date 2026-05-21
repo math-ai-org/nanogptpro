@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.DS_Store
+.hf-cache/
+.venv/
+out/
+results/
+
+data/**/*.bin
+data/**/*.npy
+data/**/*.pkl
+data/**/*.tmp
